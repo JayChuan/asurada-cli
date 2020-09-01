@@ -34,7 +34,7 @@ if (!process.argv.slice(2).length) {
 }
 
 program
-  .version(`@garena/cli ${require('../package').version}`, '-v --version')
+  .version(`@asurada/cli ${require('../package').version}`, '-v --version')
   .usage('<command> [options]')
 
 program
