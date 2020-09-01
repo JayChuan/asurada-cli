@@ -1,13 +1,13 @@
 {
-  "name": "@garena/cli",
+  "name": "@asurada/cli",
   "version": "1.0.0",
-  "description": "vue cli for garena frontend",
+  "description": "vue cli for frontend template",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "lee-vue": "./bin/vue.js"
+    "a-vue": "./bin/vue.js"
   },
   "repository": {
     "type": "git",
